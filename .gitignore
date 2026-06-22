@@ -1,0 +1,4 @@
+node_modules/
+.scannerwork/
+trivy-fs-report.txt
+trivy-image-report.txt
